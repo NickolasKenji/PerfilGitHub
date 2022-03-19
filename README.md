@@ -18,7 +18,7 @@
   <img align="center" alt="Nick-Java" height="35" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-plain-wordmark.svg">
   <img align="right" alt="Rafa-pic" height="340" style="border-radius:50px;" src="https://media.discordapp.net/attachments/877898191742324736/952296156325630082/unknown.png?width=382&height=682">
    
-   ![Snake animation](https://github.com/NickolasKenji/NickolasKenji/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/NickolasKenji/NickolasKenji/blob/output/github-contribution-grid-snake.svg)
    
 </div> 
   
