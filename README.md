@@ -19,7 +19,7 @@
    
  ##
    
-  ![Snake animation](https://github.com/NickolasKenji/PerfilGitHub/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/NickolasKenji/NickolasKenji/blob/output/github-contribution-grid-snake.svg)
    
 </div> 
   
