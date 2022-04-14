@@ -1,4 +1,4 @@
-## Opa, Nickolas Kenji aqui 😎
+## Salve Alexandre 😎
 
 - 🌱 Estudando ADS na FIAP
 - 🧶 18y
