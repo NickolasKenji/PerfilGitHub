@@ -1,7 +1,7 @@
-## Nickolas Kenji - ADS FIAP 2/4
+## Nickolas Kenji - ADS FIAP 3/4
 
 - 🌱 Estudando ADS na FIAP
-- 🧶 18y
+- 🧶 19y
    
  ##
  
