@@ -1,4 +1,3 @@
-#### **PT-BR**
 <h1 align="center">Olá 👋, sou o Nickolas Kenji 😎:</h1>
 
 ## 🤓 Sobre mim:
