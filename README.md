@@ -3,7 +3,7 @@
 ## 🤓 Sobre mim:
 > * 🛠️ **Programmer** em desenvolvimento 🥰.
 > * 🌱 Atualmente estou aprendendo os seguintes temas: **Web Development, Python, IA, Cloud .**
-> * ⚡ Fato engraçado sobre mim: **Seguindo o Fluxo💜 e o Santos🤍 nas horas vagas**
+> * ⚡ Fato: **Seguindo o Fluxo💜 e o Santos🤍 nas horas vagas**
 
 -------------------------------------------------------
 
